@@ -1,149 +1,102 @@
-# Happiness Plans – Full Website Project
+# 💻 Happiness Plans – Website Built with React, TypeScript & Tailwind CSS
 
+> ✨ *“Make Every Moment A Celebration”*  
+> A full-fledged, modern, and responsive website built for **Happiness Plans** — a travel and event management company based in Indore, Madhya Pradesh.
 
-<img width="1915" height="874" alt="9fce8634-859f-4670-a82b-5e937483e569" src="https://github.com/user-attachments/assets/cb4044eb-5c20-4680-b4d7-aaaf84a87da2" />
-
-> **Tagline**: *Make Every Moment A Celebration*  
-> **Location**: 408, Apollo Premier, Vijay Nagar Square, Indore, Madhya Pradesh – 452011  
-> **Website**: [https://happinessplans.com](https://happinessplans.com)  
-> **Industry**: Travel, Tourism, Event Management, Hospitality  
-> **Founded**: 2021  
-> **Team Size**: 10–50 Employees  
+<img width="1915" height="874" alt="9fce8634-859f-4670-a82b-5e937483e569" src="https://github.com/user-attachments/assets/807a7212-84fc-4c2c-95bf-95174e31f472" />
+7483e569.png)
 
 ---
 
-## 🌟 Vision
+## 🚀 Project Overview
 
-> To deliver customized travel and event experiences with seamless planning and joyful memories.
+This is a professionally built website for **Happiness Plans**, developed using **React JS + TypeScript**, styled with **Tailwind CSS**, and deployed via **Vercel**.
 
----
-
-## 🧭 Core Services
-
-### 1. **Travel & Tourism**
-- Holiday Packages (Domestic & International)
-- Air Ticket Booking
-- Adventure Trips & Cruises
-- Bus & Car Rentals
-- Visa & Passport Services
-- Foreign Exchange Assistance
-- Study Abroad Planning
-
-### 2. **Event Management**
-- Destination Weddings
-- Private Parties & Retreats
-- Corporate Events, Conferences, MICE
-- Venue, Décor, Catering, Entertainment
-
-### 3. **(Optional) Corporate & Workplace Wellness**
-- Employee Happiness Programs
-- Mental Wellness Workshops
-- Positive Psychology & Life Coaching  
-*(Note: Confirmed via directory listing; verify before promoting as primary service)*
+### 🔗 Live Link:
+https://happiness-plans1.vercel.app/
 
 ---
 
-## 💼 Internship & Careers
+## 🛠 Tech Stack Used
 
-**Open Internship Roles:**
-- Digital Marketing
-- Web Development
-- Content & Social Media
-- General Management
-
-**Stipends:** ₹4,000–₹20,000/month  
-**Benefits:** Certificates, LORs, Real Projects  
-**Culture:** Youth-driven, learning-oriented, fast-paced
+| Layer          | Technology          | Purpose                                                                 |
+|----------------|---------------------|-------------------------------------------------------------------------|
+| **Frontend**   | React.js + Vite     | SPA Architecture for speed & modularity                                |
+| **Language**   | TypeScript          | Type safety, better dev experience                                     |
+| **Styling**    | Tailwind CSS        | Rapid, utility-first styling                                           |
+| **Deployment** | Vercel              | Fast CI/CD pipeline and global hosting                                 |
+| **Media**      | MP4, PNG            | Promotional videos & logo/images integration                          |
 
 ---
 
-## 🌐 Online Presence
-- Instagram: [@happiness.plans](https://instagram.com/happiness.plans)
-- LinkedIn: [Happiness Plans LinkedIn](https://www.linkedin.com/company/happiness-plans)
-- Email: [info@happinessplans.com](mailto:info@happinessplans.com)
-- Phone: +91-82248 03424
+## 🎯 Features Implemented
+
+- Responsive design for all devices
+- Company services section (Travel, Events, Wellness)
+- Internship and hiring details
+- Contact information with CTA
+- Embedded **promo video** and brand logo
+- Clear navigation (Home, About, Services, Gallery, Careers, Contact)
+
+📹 **Demo Video**:
+
+> 🎥 Included below — promotional clip used in About section  
+> ![Promo Video](./0800cdbd-0b28-404d-96dc-2fdd9f4ca8c7.mp4)
 
 ---
 
-## 🗂️ Website Structure
+## 🏢 About "Happiness Plans" (Client Info You Used)
 
-### `/` (Homepage)
-- Hero section with tagline & CTA
-- Services Overview
-- Testimonials
-- Call Now Button & Social Media Links
-
-### `/about`
-- Company story, founding journey
-- Vision, Mission, Values
-- Timeline & Team Culture
-
-### `/services`
-- Tabbed sections for: Travel, Events, Wellness
-- Icons and short descriptions
-- Embedded enquiry form (optional)
-
-### `/gallery`
-- Past event & travel photos
-- Categorized by service type
-
-### `/careers`
-- Intern roles & benefits
-- Testimonials
-- Application form or contact
-
-### `/contact`
-- Address, phone, email
-- Contact form
-- Embedded Google Maps
+- **Company**: Happiness Plans  
+- **Founded**: 2021  
+- **Location**: Indore, Madhya Pradesh  
+- **Team Size**: 10–50 Employees  
+- **Domain**: Travel, Tourism, Event Management  
+- **Tagline**: *Make Every Moment A Celebration*  
+- **Main Services**:
+  - ✈️ Holiday Planning, Cruises, Foreign Exchange, Visa
+  - 💍 Destination Weddings, Corporate Events (MICE)
+  - 🧠 Optional Wellness Services (Happiness coaching, workshops)
 
 ---
 
-## 📸 Media Integration
+## 🖼️ Pages Built
 
-- ✅ Logo: Included in all pages
-- ✅ Homepage Banner Images (Screenshots from original UI)
-- ✅ Video: (./0800cdbd-0b28-404d-96dc-2fdd9f4ca8c7.mp4)
-  - To be embedded on homepage or About page.
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-- **Framework**: HTML5, CSS3, JavaScript
-- **Styling**: TailwindCSS
-- **Libraries**: Swiper.js (for sliders), AOS (for animations)
-
-### Backend
-- **CMS/Builder Options**: Framer AI / Wix AI / Webflow / WordPress
-- **Form Handling**: Netlify Forms or EmailJS for static hosting
-- **Deployment**: Vercel / Netlify
-
-### Media & SEO
-- **SEO Optimization**: Meta tags, OpenGraph, Alt Texts
-- **Responsive Design**: Mobile-first layout
-- **Accessibility**: ARIA labels, color contrast, keyboard navigation
+- **Home**: Hero section + tagline + services preview
+- **About**: Company journey, mission, team culture
+- **Services**: Tabbed layout for Travel, Events, Wellness
+- **Gallery**: Visual showcase with image cards
+- **Careers**: Internship & job listings with stipend info
+- **Contact**: Phone, email, Google Maps, form integration
 
 ---
 
-## ✅ Project Goals
+## 📂 Project Structure
 
-- Create a vibrant, responsive, and modern website
-- Highlight Happiness Plans as a complete travel and event solution provider
-- Attract both customers and interns
-- Ensure easy navigation, fast loading, and contact clarity
+happiness-plans/
+├── public/
+│ ├── images/ # Logo, event banners, gallery
+│ └── video/ # Promotional video (MP4)
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # All main pages: Home, About, etc.
+│ ├── App.tsx # Routes + Layout
+│ ├── main.tsx # App entry
+│ └── index.css # Tailwind styles
+├── tailwind.config.js
+├── tsconfig.json
+└── vite.config.ts
+
+yaml
+Copy
+Edit
 
 ---
 
-## 📋 Recommendations
+## 🔧 How to Run Locally
 
-- Highlight **USP**: Destination Weddings + Global Holidays + Internship Culture
-- Use testimonials and visuals to build trust
-- Ensure Google Map embed and active CTA on mobile version
-- Confirm Corporate Wellness before featuring prominently
-
----
-
-## 📁 File Structure (if hosted manually)
-
+```bash
+git clone https://github.com/yourusername/happiness-plans.git
+cd happiness-plans
+npm install
+npm run dev
