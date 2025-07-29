@@ -41,7 +41,8 @@ https://happiness-plans1.vercel.app/
 📹 **Demo Video**:
 
 > 🎥 Included below — promotional clip used in About section  
-> ![Promo Video](./0800cdbd-0b28-404d-96dc-2fdd9f4ca8c7.mp4)
+https://github.com/user-attachments/assets/44a546b6-f631-43a8-a676-813140266fd9
+
 
 ---
 
