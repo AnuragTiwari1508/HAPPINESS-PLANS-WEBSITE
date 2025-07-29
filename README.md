@@ -1,6 +1,7 @@
 # Happiness Plans – Full Website Project
 
-![Happiness Plans Logo](./9fce8634-859f-4670-a82b-5e937483e569.png)
+
+<img width="1915" height="874" alt="9fce8634-859f-4670-a82b-5e937483e569" src="https://github.com/user-attachments/assets/cb4044eb-5c20-4680-b4d7-aaaf84a87da2" />
 
 > **Tagline**: *Make Every Moment A Celebration*  
 > **Location**: 408, Apollo Premier, Vijay Nagar Square, Indore, Madhya Pradesh – 452011  
